@@ -1,5 +1,4 @@
 class Song
-    
     @@count = 0 #tracking the number of new songs created from the Song class
     @@genres = [] #genre attribute of each new instance/song
     @@artists = [] #artist attribute of each new instance/song
